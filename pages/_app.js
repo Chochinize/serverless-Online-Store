@@ -1,6 +1,6 @@
 import './../styles/style.css'
 // import 'tailwindcss/tailwind.css'
-import Layout from '../Components/Layout'
+import Layout from '../components/Layout'
 import {AppContextProvider} from '../Context/state'
 
 
