@@ -1,4 +1,4 @@
-import './../styles/styles.css'
+import '../styles/styles.css'
 import 'tailwindcss/tailwind.css'
 import Layout from '../Components/Layout'
 import {AppContextProvider} from '../Context/state'
