@@ -22,18 +22,6 @@
 .shadowtext{
     text-shadow: -30px -30px 3px rgba(149, 150, 150, 1);
 }
-.trn {
-    background-color: orange;
-    animation-name: MoveMe;
-    animation-duration: 4s;
-  }
-  @keyframes MoveMe {
-    0%  
-    {
-        color:transparent;
-        background-color: orange;}
-   50%  {background-color: green;}
-    100%   {
-        color:black;
-        background-color:black;}
-  }  
+.srt{
+    width: fit-content;
+}
